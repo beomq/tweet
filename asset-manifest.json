@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/tweet/static/css/main.d9b25045.css",
-    "main.js": "/github.io/tweet/static/js/main.4924ef7f.js",
-    "index.html": "/github.io/tweet/index.html",
-    "main.d9b25045.css.map": "/github.io/tweet/static/css/main.d9b25045.css.map",
-    "main.4924ef7f.js.map": "/github.io/tweet/static/js/main.4924ef7f.js.map"
+    "main.css": "https://beomq/github.io/tweet/static/css/main.d9b25045.css",
+    "main.js": "https://beomq/github.io/tweet/static/js/main.e8281809.js",
+    "index.html": "https://beomq/github.io/tweet/index.html",
+    "main.d9b25045.css.map": "https://beomq/github.io/tweet/static/css/main.d9b25045.css.map",
+    "main.e8281809.js.map": "https://beomq/github.io/tweet/static/js/main.e8281809.js.map"
   },
   "entrypoints": [
     "static/css/main.d9b25045.css",
-    "static/js/main.4924ef7f.js"
+    "static/js/main.e8281809.js"
   ]
 }
